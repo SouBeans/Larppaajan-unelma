@@ -20,7 +20,6 @@ header {
   background-repeat: no-repeat;
   background-position:center;
   background-color: #efe7cd;
-  padding: 20px;
   text-align: center;
   font-size: 40px;
   color: white;
@@ -40,7 +39,7 @@ nav #etu {
   width: 10em; 
   height: 660px;
   background: #efe7cd;
-  padding: 20px;
+ 
   background-image: url(DanakarLoukkaantuminen.jpeg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -53,7 +52,7 @@ nav #parhaat {
   width: 10em; 
   height: 700px;
   background: #efe7cd;
-  padding: 20px;
+ 
   background-image: url(Aamu.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -66,7 +65,7 @@ nav #pahimmat {
   width: 10em; 
   height: 650px;
   background: #efe7cd;
-  padding: 20px;
+  
   background-image: url(maria.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -79,7 +78,7 @@ nav #bee {
   width: 10em;
   height: 700px; 
   background: #efe7cd;
-  padding: 20px;
+
   background-image: url(viekasMinttu.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -90,20 +89,20 @@ nav #kuva {
   float: left;
   text-align: center;
   width: 10em;
-  height: 1050px; 
+  height: 600px; 
   background: #efe7cd;
-  padding: 20px;
+  
   background-image: url(hattaramieli.jpg);
   background-repeat: no-repeat;
-  background-position: 0em;
+  background-position: bottom;
   background-size: contain;
 }
 
-ul.a {
+.a {
   list-style-type: disc;
 }
 
-ul.b {
+.b {
   list-style-type: circle;
 }
 
@@ -170,7 +169,7 @@ main div {
     bottom: 0;
     right: 0;
     background-color: #efe7cd;
-    padding: 2px;
+    
     text-align: center;
     color: rgb(40, 95, 88);
     height: 100px;
