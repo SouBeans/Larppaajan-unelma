@@ -37,9 +37,8 @@ nav #etu {
   float: left;
   text-align: center;
   width: 10em; 
-  height: 660px;
+  height: 600px;
   background: #efe7cd;
- 
   background-image: url(DanakarLoukkaantuminen.jpeg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -50,9 +49,8 @@ nav #parhaat {
   float: left;
   text-align: center;
   width: 10em; 
-  height: 700px;
+  height: 620px;
   background: #efe7cd;
- 
   background-image: url(Aamu.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -63,9 +61,8 @@ nav #pahimmat {
   float: left;
   text-align: center;
   width: 10em; 
-  height: 650px;
+  height: 600px;
   background: #efe7cd;
-  
   background-image: url(maria.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -76,9 +73,8 @@ nav #bee {
   float: left;
   text-align: center;
   width: 10em;
-  height: 700px; 
+  height: 600px; 
   background: #efe7cd;
-
   background-image: url(viekasMinttu.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
@@ -89,9 +85,8 @@ nav #kuva {
   float: left;
   text-align: center;
   width: 10em;
-  height: 600px; 
+  height: 560px; 
   background: #efe7cd;
-  
   background-image: url(hattaramieli.jpg);
   background-repeat: no-repeat;
   background-position: bottom;
